@@ -12,4 +12,4 @@ We need to ensure we can capture the initial data needed.
 - name
 - poleSetting - static, spinny
 - difficultyLevel - beginner, intermediate, advanced
-- moveType - spin, climb, transition, invert, upright, floor, head/forearm/handstand
+- (This is likely a future addition) moveType - spin, climb, transition, invert, upright, floor, head/forearm/handstand
