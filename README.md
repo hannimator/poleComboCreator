@@ -31,7 +31,7 @@ Select from beginner, intermediate and advanced moves, and spinny or static, to 
 ```
 {
     "success": true,
-    "id": "62fe04e40d3053b10a9c7adb",
+    "id": "<generatedID>",
     "message": "Pole move added to DB!"
 }
 ```
