@@ -9,7 +9,7 @@ Select from beginner, intermediate and advanced moves, and spinny or static, to 
 1. If you haven't installed mongodb as a windows service, start mongodb
 1. Open mongodb compass and create a database called `polemoves` and a collection called `polemoves`
 1. Download and install Postman
-1. Run 'nodemon index.js' to start the server
+1. Run `nodemon index.js` to start the server
 
 ## Add To The Database
 
